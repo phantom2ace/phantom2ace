@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @phantom2ace
 - 👀 I’m interested in pentesting
-- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on a lot projects 
-- 📫 How to reach me justellis19@gmail.com
+- 📫 How to reach me gbewordoellis42@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: video games and hacking 
 
